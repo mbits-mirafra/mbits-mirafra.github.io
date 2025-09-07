@@ -2,7 +2,7 @@
 layout: page
 title: UART VIP
 description: VIP for UART protocol.
-img: assets/img/jtag.png
+img: assets/img/uart.png
 status: Receiver Verified
 importance: 1
 contributors:
