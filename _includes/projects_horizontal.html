@@ -23,6 +23,14 @@
             <div class="card-body">
               <h3 class="card-title">{{ project.title }}</h3>
               <p class="card-text">{{ project.description }}</p>
+              
+              {%- if project.status %}
+              <div class="project-status mt-2">
+                <span class="status-label">Status:</span>
+                <span class="status-badge">{{ project.status }}
+                </span>
+              </div>
+              {%- endif %}
             </div>
           </div>
         </div>
