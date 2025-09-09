@@ -5,7 +5,7 @@ description: VIP for I2S protocol.
 status: Receiver Verified
 img: assets/img/I2S.png
 importance: 1
-contributors: 
+contributors: mahadevaswamy,gopal,aman,gokul,hema,yogesh,nitish 
 redirect: https://github.com/mbits-mirafra/i2s_avip
 category: work
 ---
