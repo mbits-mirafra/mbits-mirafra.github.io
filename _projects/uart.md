@@ -5,7 +5,7 @@ description: VIP for UART protocol.
 img: assets/img/uart.png
 status: Receiver Verified
 importance: 1
-contributors: swasthik,manoj
+contributors: swasthik,manoj,gopal,mahadevaswamy
 redirect: https://github.com/mbits-mirafra/uart_avip
 category: work
 ---
